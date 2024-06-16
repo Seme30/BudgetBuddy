@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Budget Buddy</string>
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="transaction">Add Transaction</string>
+    <string name="budget">Budget</string>
+    <string name="wallet">Wallets</string>
+    <string name="report">Analytics</string>
+</resources>

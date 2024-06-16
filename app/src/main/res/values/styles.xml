@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CustomSplashScreenTheme" parent="Theme.BudgetBuddyTheme">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowBackground">@drawable/logo</item>
+        <item name="android:duration">600</item>
+        <item name="postSplashScreenTheme">@style/Theme.BudgetBuddyTheme</item>
+    </style>
+</resources>
